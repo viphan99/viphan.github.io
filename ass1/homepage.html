@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body> 
+        <header>
+            <h2><img src="https://icons.veryicon.com/png/o/miscellaneous/business-card-applet-1/hi.png" width="50" height="45"> there!</h2>
+            <h5>WELCOME TO MY HOMEPAGE!</h5>
+        </header>
+        <div class="container">
+            <div class="content">
+                <section>
+                    <h2>General Information</h2>
+                    <p>My name is Vi Phan and I was born and raised in Vietnam. Before I came to Canada, I used to study optometric for 2 years in Vietnam. I am currently studying Information Technology at York University. I am looking for a summer internship</p>
+                </section>
+                <section>
+                    <h2>Hobbies</h2>
+                    <ul>
+                        <li>Listen to music</li>
+                        <li>Travel</li>
+                        <li>Explore new things</li>
+                    </ul>
+                </section>
+                <section>
+                    <h2>My research interests</h2>
+                    <p>I am interested in data analyze or web development topics such as machine learning for healcare, data mining for social media, and data visualization techniques for the Web. I hope I can get an internship related to these topics as well as a job after graduation. </p>
+                    <h2>Contact information</h2>
+                    <p>Email: <a href="mailto:viphan@gmail.com?subject=Hello%20again">viphan@gmail.com</a> </p>
+                    <p>Phone numer: +1 234 567 8981</p>
+                    <a target="_blank" href="https://www.instagram.com">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="20" height="20">
+                    </a>
+                    <a target="_blank" href="https://www.facebook.com">
+                        <img src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" width="20" height="20">
+                    </a>
+                    <a target="_blank" href="https://ca.linkedin.com">
+                        <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="20" height="20">
+                    </a>
+            
+                 </section>
+        
+             </div>
+             <div class="image">
+                 <img src="1658881160496.JPG" >
+             </div>
+         </div>
+        
+    </body>
+</html>

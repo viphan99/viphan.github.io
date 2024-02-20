@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    align-items: center; /* Vertically align items */
+}
+.content {
+    flex: 1; /* Take remaining space */
+    padding: 20px;
+}
+.image {
+    flex: 1; /* Take remaining space */
+    padding: 20px;
+    text-align: center; /* Center the image horizontally */
+}
+img {
+    max-width: 100%; /* Ensure the image doesn't overflow its container */
+    height: auto;
+}   
+header {
+    text-align:center;
+    background-color: rgb(225, 153, 81);
+    padding: 20px;
+}
+
